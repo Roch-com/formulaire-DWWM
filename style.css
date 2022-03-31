@@ -1,0 +1,26 @@
+body{
+    background-color: #7bbcd6;
+    display: block;
+    align-self: center;
+    text-align: center;
+}
+form{
+    width: 70%;
+    vertical-align: center;
+    background-color: #F3F3F3 ;
+    padding: 30px;
+    margin: auto;
+    border-radius: 20px;
+}
+
+button{
+    background: rgb(75, 129, 211); 
+    border: 10px solid #ffff; 
+    border-radius: 5px; 
+    color: black;
+}
+
+.label {
+    text-align: right; 
+    padding: 10px;
+}
